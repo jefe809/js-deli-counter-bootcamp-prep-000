@@ -23,7 +23,7 @@ function currentLine(line){
     return `The line is currently empty`;
   }
   for(i = 0; i < line.length; i++){
-    
+    lineNum.push()
   }
 }   
     
