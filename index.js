@@ -19,6 +19,8 @@ function nowServing(deliLine){
 
 function currentLine(line){
   var lineNum = [];
-  
+  if (line.length === 0){
+    return `The line is currently empty`;
+  }
 }   
     
